@@ -1,5 +1,15 @@
 [
   {
+    "title": "Astronomy",
+    "slug": "astronomy",
+    "description": "Catch the spectacular show of six planets aligning in the night sky this weekend, as witnessed across multiple media outlets. #Astronomy #PlanetaryParade",
+    "image": "https://raw.githubusercontent.com/Demoaccount010/smilenews-data/main/images/astronomy.jpg",
+    "category": "trending",
+    "publishDate": "2026-02-28T03:07:35+05:30",
+    "timestamp": 1772248055.6267307,
+    "author": "Editorial Team"
+  },
+  {
     "title": "Pooled Testing for Tuberculosis Works and Saves Money - 10 Years of Stop TB/TB REACH Investments Show That!",
     "slug": "pooled-testing-for-tuberculosis-works-and-saves-money-10-years-of-stop-tb-tb-rea",
     "description": "This groundbreaking research has led to significant advancements in tuberculosis diagnosis, enabling more accurate treatments at lower costs.",
