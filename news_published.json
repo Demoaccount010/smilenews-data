@@ -1,5 +1,15 @@
 [
   {
+    "title": "HRW",
+    "slug": "hrw",
+    "description": "Israeli human rights group Human Rights Watch accuses Israel of illegally using white phosphorus in southern Lebanon.",
+    "image": "https://raw.githubusercontent.com/Demoaccount010/smilenews-data/main/images/hrw.jpg",
+    "category": "trending",
+    "publishDate": "2026-03-10T02:44:39+05:30",
+    "timestamp": 1773110679.1323586,
+    "author": "Editorial Team"
+  },
+  {
     "title": "Players' Union Warns of Safety Concerns in Iran Women's Soccer Following Asian Cup Exit",
     "slug": "players-union-warns-of-safety-concerns-in-iran-women-s-soccer-following-asian-cu",
     "description": "This article discusses a union complaint regarding the safety precautions taken by Iranian women\u2019s soccer players who narrowly escaped an incident during their ",
